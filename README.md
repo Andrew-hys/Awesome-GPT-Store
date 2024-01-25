@@ -129,6 +129,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [h4ckGPT](https://chat.openai.com/g/g-1ehIO0APO-h4ckgpt) - Your personal security tool
 - [Learn AI in Fun Way](https://chat.openai.com/g/g-VbMY5EfGL-learn-ai-in-fun-way) - A humorous ML trainer who teaches with jokes and quizzes, making learning AI entertaining and enjoyable.
 - [Mindmap](https://chat.openai.com/g/g-pkeXTdBQQ-mindmap) - Assists in creating structured mind maps for organizing thoughts and ideas.
+- [Ticket writer](https://chat.openai.com/g/g-rSoQspPfq-ticket-writer-buddy) – Assist in writing any ticket for the development team.
 - [RubyGPT](https://chat.openai.com/g/g-ASMq03VdH-rubygpt) - Assists with Ruby programming.
 - [Ruby on Rails Guru](https://chat.openai.com/g/g-feiuosKrt-ruby-on-rails-guru) - Assist with Ruby on Rails development with the most recent documentation for Stimulus, Turbo, Strada, etc. 
 - [Secure Code Assistant](https://chat.openai.com/g/g-k0PTOme1H-secure-code-assistant) - I offer tested, secure coding solutions with no patience-testing.
@@ -216,6 +217,7 @@ A curated list of specialized Custom GPT chatbots designed to assist you in a va
 - [Chinese Pronunciation [Audio]](https://chat.openai.com/g/g-Dr5b43UUk-audio-chinese-pronunciation-tutor) - Chinese Pronunciation Tutor for use with ChatGPT mobile app's conversational AI
 - [Communication Coach](https://chat.openai.com/g/g-cvL6Fk76M-communication-coach) - I help overthinkers communicate better. Built by Become More Compelling.
 - [Conceptmap](https://chat.openai.com/g/g-ce1JVgzLI-conceptmap) - Create concepts and structure them in a map. Keep ideas and retrieve them whenever you need them.
+- [Marketing Strategy Guide](https://chat.openai.com/g/g-OY3TL8scj-strategic-product-marketer) – Help to validate and refine marketing artefacts. 
 - [Daily AI Research Digest](https://chat.openai.com/g/g-Z4yeZHkyy-daily-ai-research-digest) - Finds and summarizes the latest AI papers in your field.
 - [Daily Research Digest](https://chat.openai.com/g/g-Nmhk1adrD-daily-research-digest) - Finds and summarizes the latest academic papers in your field.
 - [Debate wars]( https://chat.openai.com/g/g-3f6WLJxOX-debate-wars) - Just provide a topic or question in your spoken language to start a ChatGpt vs ChatGpt debate battle.
